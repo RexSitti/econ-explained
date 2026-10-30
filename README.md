@@ -26,7 +26,7 @@ Rows with an empty `youtube_id` show as "Coming soon". The release counter and c
 ## Turning on GitHub Pages (one time)
 
 Settings → Pages → Source: "Deploy from a branch" → Branch: `main`, folder `/ (root)` → Save.
-The site appears at `https://r3xstar.github.io/<repo-name>/`.
+The site appears at `https://rexsitti.github.io/<repo-name>/`.
 
 ## Previewing locally
 
